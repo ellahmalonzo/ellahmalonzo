@@ -1,4 +1,9 @@
-### Hi there 👋
+<h2> Hi, I'm Ellah, a BS Computer Science student. </h2>
+
+- 👀 I'm interested in cybersecurity.
+- 🌱 I’m currently learning programming and the Linux command line.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Likes to read and sing.
 
 <!--
 **ellahmalonzo/ellahmalonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
