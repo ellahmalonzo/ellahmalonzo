@@ -1,7 +1,7 @@
 <h2> Hi, I'm Ellah, a BS Computer Science student. </h2>
 
 - 👀 I'm interested in cybersecurity.
-- 🌱 I’m currently learning C++, Java, and the Linux command line.
+- 🌱 I’m currently learning C++, Windows OS and the Linux command line.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Likes to read and sing.
 
