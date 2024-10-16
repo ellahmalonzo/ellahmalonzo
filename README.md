@@ -1,7 +1,6 @@
 Hello! I am Ellah, from the Philippines.
 
 - 🏫 I'm currently taking a BS in Marine Biology🌊.
-- 🔭 I’m currently working on my time management skills. Still suck at that one.
 - 🔍 Recently got interested in mangroves.
 - 📫 How to reach me: Already in my bio.
 - 😄 Pronouns: She/Her
