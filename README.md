@@ -1,6 +1,6 @@
 Hello! I am Ellah, from the Philippines.
 
-- 🏫 I'm currently taking a BS in Marine Biology🌊.
+- 🏫 I'm currently taking a Bachelor of Science in Marine Biology🌊.
 - 🔍 Recently got interested in mangroves.
 - 📫 How to reach me: Already in my bio.
 - 😄 Pronouns: She/Her
