@@ -1,5 +1,13 @@
--- Updates are underway --
+Hello! I am Ellah, from the Philippines.
 
+- 🏫 I'm currently taking a BS in Marine Biology🌊.
+- 🔭 I’m currently working on my time management skills. Still suck at that one.
+- 🔍 Recently got interested in mangroves.
+- 📫 How to reach me: Already in my bio.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Already in my bio.
+
+-- Updates are underway --
 <!--
 **ellahmalonzo/ellahmalonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
